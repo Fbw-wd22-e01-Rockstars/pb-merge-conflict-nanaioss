@@ -1,4 +1,4 @@
- ![banner](img/kitten.jpg)
+ ![banner](img/bridge)
 
  # Lorem ipsum sic header
 
@@ -7,4 +7,6 @@
 * bullet
 * points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There is a bugin this file</p>
+
+<p> ne neenenene</p>
